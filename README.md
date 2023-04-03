@@ -5,8 +5,9 @@ know.
 This is not step-by-step guide, this is more kind of cheat sheet. It can be used as a roadmap or to refresh your 
 knowledge before interview.
 ### Table of content
-1. [Python Interview - Questions & Answers](docs/python_start.md)
-2. [Python AQA / SDET - Questions & Answers](docs/paqa.md)
+1. [Python Interview](docs/python_start.md)
+2. [Python AQA / SDET](docs/paqa.md)
+3. [Networking](docs/networking.md)
 
 
 # Contribution
